@@ -25,10 +25,10 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/PePPeRmix/node-stratum-pool.git"
+        "url": "git://github.com/PePPeRmix/node-stratum-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "https://github.com/clintar/node-multi-hashing/tree/Nan-2.0",
+        "multi-hashing": "git://github.com/clintar/node-multi-hashing/tree/Nan-2.0",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
