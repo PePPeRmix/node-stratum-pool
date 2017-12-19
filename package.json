@@ -28,7 +28,7 @@
         "url": "git://github.com/PePPeRmix/node-stratum-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/clintar/node-multi-hashing/tree/Nan-2.0",
+        "multi-hashing": "git://github.com/clintar/node-multi-hashing/",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
